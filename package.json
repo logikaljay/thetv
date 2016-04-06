@@ -1,0 +1,18 @@
+{
+  "name": "thetv",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --use_strict -u exports"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "code": "^2.1.1",
+    "mocha": "^2.4.5"
+  }
+}
