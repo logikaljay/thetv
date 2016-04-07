@@ -22,6 +22,7 @@ describe('TV show matcher', () => {
 
     [
         "abc.S07E01.fdsa.720p.HDTV.x264-DHD",
+        "fdsa.s07e18.720p.hdtv.x264-avs",
         "fdas.abcds.fdsa.S07E02",
         "aFDDSAFAasdf.fdsa.S07E03-DHD"
     ].forEach((show) => {

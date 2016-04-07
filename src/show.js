@@ -4,8 +4,8 @@ class Show {
 
     constructor(input) {
         var regex = [
-            /(.*).S(\d+)E(\d+)/,
-            /(.+).(\d+\x\d+)/
+            /(.*).S(\d+)E(\d+)/i,
+            /(.+).(\d+\x\d+)/i
         ]
 
         // match tv.show.S01E01
