@@ -1,7 +1,8 @@
+'use strict'
+
 class Show {
 
     constructor(input) {
-
         var regex = [
             /(.*).S(\d+)E(\d+)/,
             /(.+).(\d+\x\d+)/
